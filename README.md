@@ -1,4 +1,4 @@
-# Desafio: Datos de Usuarios
+# Desafío: Datos de Usuarios
 
 ### Módulo 3
 ### Programación avanzada en Javascript
